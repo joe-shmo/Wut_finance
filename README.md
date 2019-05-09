@@ -1,6 +1,6 @@
 # Wut_finance
 
-BY JOE STEPHENSON
+By Joe Stephenson
 
 A function that makes using IEX finance a lot easier.
 
